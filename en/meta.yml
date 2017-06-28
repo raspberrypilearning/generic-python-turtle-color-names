@@ -1,7 +1,7 @@
-title: generic-python-turtle-color-names
+title: Using Python turtle color names
 hero_image: images/banner.png
-description: generic-python-turtle-color-names description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Using Python turtle color names
+original_url: 
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
@@ -9,4 +9,4 @@ ingredient: false
 interests: "games, photography, physical computing"
 technologies: "electronics, physical computing, python, scratch"
 steps:
-  - title: Step one
+  - title: Color names
