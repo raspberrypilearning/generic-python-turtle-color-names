@@ -1,0 +1,13 @@
+title: Using Python turtle color names
+hero_image: images/banner.png
+description: Using Python turtle color names
+original_url: 
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: "graphics"
+technologies: "python, turtle"
+steps:
+  - title: Color names
